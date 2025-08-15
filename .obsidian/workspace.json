@@ -11,10 +11,14 @@
             "id": "64e24b9e26956b81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design Principles/SOLID Principles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SOLID Principles"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b495dae347f6b405",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Principles/SOLID Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SOLID Principles"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Principles/SOLID Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SOLID Principles"
             }
           },
           {
@@ -136,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Design Principles/SOLID Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of SOLID Principles"
             }
           }
         ]
@@ -162,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d886c07cac8c097",
+  "active": "64e24b9e26956b81",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Untitled.md",
+    "Design Principles/SOLID Principles.md",
+    "Welcome.md",
+    "Design Principles"
   ]
 }
